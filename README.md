@@ -1,8 +1,10 @@
 # n4m-qrcode-generator
 
 MaxMSP QRCode generator allow you to generate a QRCode image from some text, web URL, etc.
+
 It uses "[Node for Max](https://github.com/Cycling74/n4m-examples)" package of Max8.
-It uses the node package "[node-qrcode](https://github.com/soldair/node-qrcode)".
+
+And the node package "[node-qrcode](https://github.com/soldair/node-qrcode)".
 
 ***
 
