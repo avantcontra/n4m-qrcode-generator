@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 79.0, 972.0, 733.0 ],
+		"rect" : [ 34.0, 79.0, 1011.0, 539.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -310,12 +310,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-31",
-					"linecount" : 8,
+					"linecount" : 12,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 501.5, 398.0, 465.0, 114.0 ],
-					"text" : "A QRCode generator allow you to generate an QRCode png image from some text, web URL, etc. And save the png file in qrcode folder.\n\n1. Click on the [script npm install] once to install the NodeJS package.\n2. And then click on the [script start] message to start the Node process.\n3. Click the two example message object. You will see the image file generated in qrcode folder, and the image rendered in window.\n4. You can scan the QRCode image using mobile phone App to see the result."
+					"patching_rect" : [ 501.5, 398.0, 465.0, 167.0 ],
+					"text" : "A QRCode generator allow you to generate an QRCode png image from some text, web URL, etc. And save the png file in qrcode folder.\n\n1. Click on the [script npm install] once to install the NodeJS package.\n2. And then click on the [script start] message to start the Node process.\n3. Click the two example message object. You will see the image file generated in qrcode folder, and the image rendered in window.\n4. You can scan the QRCode image using mobile phone App to see the result.\n\nFind more:\nhttps://www.floatbug.com/2019/01/21/max-qrcode-generator/\nby Contra"
 				}
 
 			}
@@ -633,7 +633,7 @@
 			}
 , 			{
 				"name" : "qrcode-generator.js",
-				"bootpath" : "~/Dev/projects/0contra/techlab-max/n4m-node/n4m-qrcode-generator",
+				"bootpath" : "~/Dev/projects/0contra/n4m-examples/qrcode-generator",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
