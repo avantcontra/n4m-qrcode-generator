@@ -1,7 +1,8 @@
 # n4m-qrcode-generator
 
-A QRCode generator allow you to generate a QRCode image from some text, web URL, etc.
-It uses the node package "node-qrcode".
+MaxMSP QRCode generator allow you to generate a QRCode image from some text, web URL, etc.
+It uses "[Node for Max](https://github.com/Cycling74/n4m-examples)" package of Max8.
+It uses the node package "[node-qrcode](https://github.com/soldair/node-qrcode)".
 
 ***
 
@@ -19,3 +20,8 @@ It uses the node package "node-qrcode".
 2. Click on the [script npm install] once to install the NodeJS package. And then click on the [script start] message to start the Node process.
 3. Click the two example message object. You will see the image file generated in qrcode folder, and the image rendered in window.
 4. You can scan the QRCode image using mobile phone App to see the result.
+
+----
+- Website: [floatbug.com/contra](https://www.floatbug.com/contra)
+- facebook: [avantcontra](https://facebook.com/avantcontra)
+- twitter: [avantcontra](https://twitter.com/avantcontra)  
