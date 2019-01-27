@@ -26,6 +26,11 @@ And the node package "[node-qrcode](https://github.com/soldair/node-qrcode)".
 4. You can scan the QRCode image using mobile phone App to see the result.
 
 ----
-- Website: [floatbug.com/contra](https://www.floatbug.com/contra)
+Cheers~
+
+Contra
+
+- website: [floatbug.com/contra](https://www.floatbug.com/contra)
 - facebook: [avantcontra](https://facebook.com/avantcontra)
 - twitter: [avantcontra](https://twitter.com/avantcontra)  
+- patreon (buy me a coffee): [avantcontra](https://www.patreon.com/avantcontra)
