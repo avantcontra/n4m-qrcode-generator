@@ -2,7 +2,7 @@
 
 MaxMSP QRCode generator allow you to generate a QRCode image from some text, web URL, etc.
 
-![QRCode generator](http://floatcc.intplusplus.org/Kapture%202019-01-21%20at%2020.53.57.gif)
+![QRCode generator](http://float.intplusplus.cn/Kapture%202019-01-21%20at%2020.53.57.gif)
 
 It uses "[Node for Max](https://github.com/Cycling74/n4m-examples)" package of Max8.
 
